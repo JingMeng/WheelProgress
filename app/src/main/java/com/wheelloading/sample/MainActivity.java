@@ -1,7 +1,7 @@
-package com.wheelloading.sample;
+﻿package com.wheelloading.sample;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
@@ -59,3 +59,4 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 }
+
